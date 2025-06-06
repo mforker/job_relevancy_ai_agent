@@ -10,7 +10,9 @@ from langchain_core.tools import tool
 from dotenv import load_dotenv
 import streamlit as st
 import PyPDF2 as pdf
-import io
+import os
+
+os.environ["GOOGLE_API_KEY"] = st.secrets['GOOGLE_API_KEY']
 
 load_dotenv()
 
