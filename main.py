@@ -104,16 +104,9 @@ Start with a **clear verdict** â€” is the resume suitable for the job? (e.g., "â
 
 ---
 
-### Comparison Table
+### Comparison 
 
-Compare the following items in a **Markdown table**: (Experience measns years of experience)
-
-| Criteria   | Resume                        | Job Description              |
-|------------|-------------------------------|------------------------------|
-| Experience | ...                           | ...                          |
-| Skills     | ...                           | ...                          |
-| Summary    | ...                           | ...                          |
-
+Compare the resume to the job description and provide a **detailed comparison** of skills, experience, and summary.
 ---
 
 ### Explanation
