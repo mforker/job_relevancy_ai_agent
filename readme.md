@@ -61,3 +61,18 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the MIT License.
 
+
+---
+## Author
+**Mitesh Nandan**
+
+Data Analyst | AI & ML Enthusiast | Building AI Tools
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitesh-nandan) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mitesh.nandan) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=blue&color=f9f9f9)](https://www.kaggle.com/miteshnandan) [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.all.nostalgic/)
+
+Let's collaborate and innovate together!
+
+---
