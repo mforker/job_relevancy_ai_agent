@@ -168,7 +168,7 @@ def run(state):
 
 
 
-st.set_page_config(layout='wide')
+st.set_page_config(layout='wide', page_title="Job Relevancy AI Agent", initial_sidebar_state='expanded', page_icon='🤖')
 
 
 with st.sidebar:
