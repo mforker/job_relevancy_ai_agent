@@ -12,6 +12,8 @@ import streamlit as st
 import PyPDF2 as pdf
 import os
 
+st.set_page_config(layout='wide', page_title="Job Relevancy AI Agent", initial_sidebar_state='expanded', page_icon='🤖')
+
 os.environ["GOOGLE_API_KEY"] = st.secrets['GOOGLE_API_KEY']
 
 load_dotenv()
@@ -167,8 +169,6 @@ def run(state):
     return state
 
 
-
-st.set_page_config(layout='wide', page_title="Job Relevancy AI Agent", initial_sidebar_state='expanded', page_icon='🤖')
 
 
 with st.sidebar:
